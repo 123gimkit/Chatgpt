@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iamsigam156 - Power of ChatGPT</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>iamsigam156</h1>
+        <p>Discover how ChatGPT answers your questions</p>
+    </header>
+
+    <section id="features">
+        <h2>Why ChatGPT is Great</h2>
+        <div class="feature">
+            <h3>Instant Answers</h3>
+            <p>Get immediate responses to your questions, saving time and effort.</p>
+        </div>
+        <div class="feature">
+            <h3>Wide Range of Knowledge</h3>
+            <p>From tech to trivia, ChatGPT provides information on almost any topic.</p>
+        </div>
+        <div class="feature">
+            <h3>24/7 Availability</h3>
+            <p>ChatGPT is always available to assist you, anytime, anywhere.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 iamsigam156. All rights reserved.</p>
+    </footer>
+</body>
+</html>
